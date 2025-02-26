@@ -8,7 +8,7 @@
 - [Dataset Description](#dataset-description)
 - [Exploratory Data Analysis](exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/Findings](results-findings)
+- [Results](#results)
 - [Recommendation](#recommendation)
 - [Limitations](#limitations)
 - [References](#references)
@@ -83,7 +83,7 @@ Step 4: Visualisation & Insights
 - Created pivot tables and charts to visualise trends.
 - Derived insights to support HR decision-making, such as potential areas for employee engagement improvements and salary optimisation.
 
-### Results/Findings
+### Results
 
 1. High Attrition Rate: The overall attrition rate is 36.32%, with some departments like Sales and Technical showing the highest numbers of departed staff.
 2. Employee Satisfaction: Satisfaction levels vary across departments, with Human Resources and Management having relatively higher satisfaction rates, whereas Technical and Sales have a mix of high, mid, and low satisfaction levels.
