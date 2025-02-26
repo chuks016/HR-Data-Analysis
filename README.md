@@ -112,16 +112,3 @@ Step 4: Visualisation & Insights
 3. [Data Analyst Bootcamp by Alex The Analyst](Data Analyst Bootcamp: http://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 
 
-
-### Conclusion
-
-This analysis provides an in-depth understanding of HR metrics that affect employee retention, productivity, and satisfaction. The insights can help organisations make data-driven decisions regarding employee welfare, work-life balance, and departmental resource allocation.
-
-
-### Future Enhancements
-
-- Automating the analysis using Python (Pandas, Matplotlib, Seaborn).
-- Integrating Power BI for dynamic dashboards.
-- Expanding the dataset for deeper insights.
-
-
