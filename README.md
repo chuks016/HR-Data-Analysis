@@ -17,6 +17,11 @@
 This project is an HR data analysis conducted using Excel. The dataset contains various employee details such as satisfaction levels, evaluation scores, project numbers, working hours, service years, work accidents, promotions, department allocation, and salary categories. The analysis aims to derive insights that help HR professionals make data-driven decisions.
 
 
+![Dashboard I](https://github.com/user-attachments/assets/d161f9bd-07dd-4fab-8b0b-c747c1864b2e)
+
+
+
+
 ### Data Sources
 
 The dataset used in this project is a simulated HR dataset, created for educational and analytical purposes. It does not contain real employee data but is structured to resemble real-world HR records for meaningful analysis.
